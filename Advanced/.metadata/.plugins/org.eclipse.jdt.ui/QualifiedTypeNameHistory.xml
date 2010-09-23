@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.microedition.khronos.opengles.GL10"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.graphics.BitmapFactory"/>
+<fullyQualifiedTypeName name="android.graphics.Bitmap"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="android.opengl.GLUtils"/>
+<fullyQualifiedTypeName name="com.tiltdev.multitouchtest.utils.TextureLoader"/>
+<fullyQualifiedTypeName name="com.tiltdev.multitouchtest.R.drawable"/>
+</qualifiedTypeNameHistroy>
