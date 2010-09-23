@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Calculatoor!</string>
+    <string name="app_name">Calculatoor</string>
+    <string name="add_stuff">Add Stuff</string>
+    <string name="fnum">First Number:</string>
+    <string name="snum">Second Number:</string>
+    <string name="result">Result: </string>
+</resources>
